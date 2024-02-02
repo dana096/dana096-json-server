@@ -3,7 +3,7 @@
 
 ### RUN
 ```
-npx json-server db.json
+$ npx json-server db.json
 JSON Server started on PORT :3000
 Press CTRL-C to stop
 Watching db.json...
