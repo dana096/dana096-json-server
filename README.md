@@ -23,9 +23,9 @@ http://localhost:3000/profile
 ```
 
 ### Launch
-- ⚠️ Do you want to tweak these settings before proceeding? Yes
+⚠️ Do you want to tweak these settings before proceeding? Yes
 ```
- flyctl launch
+$ flyctl launch
 Scanning source code
 Detected a Dockerfile app
 Creating app in /home/dana096/code/dana096-json-server
